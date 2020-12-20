@@ -3,6 +3,8 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - ipywidgets
-  - nodejs
-  - numpy
+  - ipywidgets=7.5.1
+  - nodejs=10.13.0
+  - numpy=1.19.2
+  - traitlets=5.0.5
+  
