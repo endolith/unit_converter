@@ -6,3 +6,4 @@ NumPy is overkill but it handles log(0) errors better.  Python and Binder and Do
 
 TODO: https://github.com/slightlynybbled/engineering_notation
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/endolith/unit_converter/HEAD)
